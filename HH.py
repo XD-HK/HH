@@ -105,7 +105,7 @@ def KRRSS():
 	clear()
 	
 	print(f"\n \033[1;37m[\033[1;32m1\033[1;37m] FILE CLONEING ")
-    print(f"/n [\033[1;32m2\033[1;37m] RANDOM CLONE ")
+    print(f"\n [\033[1;32m2\033[1;37m] RANDOM CLONE")
 	print(f" [\033[1;31m0\033[1;37m] Exit")
 	me=input(f'\n\n [\033[1;32m•\033[1;37m] Choice : ')
 	
